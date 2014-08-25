@@ -1,0 +1,22 @@
+{
+  "name": "swing-copters",
+  "version": "0.1.0",
+  "description": "HTML5 Version of Swing Copters based on Crafty",
+  "main": "index.js",
+  "repository": "git://github.com/kaelzhang/q.git",
+  "keywords": [
+    "swing",
+    "copters",
+    "game",
+    "html5"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "kael",
+    "email": "i@kael.me"
+  },
+  "bugs": {
+    "url": "http://github.com/kaelzhang/q/issues"
+  },
+  "homepage": "http://github.com/kaelzhang/q"
+}
